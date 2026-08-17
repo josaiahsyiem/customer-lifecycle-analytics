@@ -1,0 +1,14 @@
+# data files (download separately, see README)
+*.csv
+!images/*.csv
+
+# notebooks
+.ipynb_checkpoints/
+
+# environments
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
